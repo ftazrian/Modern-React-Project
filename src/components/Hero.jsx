@@ -9,7 +9,7 @@ const Hero = () => {
           <span className="text-blue-600 group-hover:scale-110 transition-transform">
             ★
           </span>
-          <span className="text-sm font-medium">Jump start your growth</span>
+          <span className="text-sm font-medium">Jump start your growth.</span>
         </div>
         {/*  */}
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
